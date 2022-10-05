@@ -1,4 +1,14 @@
 baseURL = 'http://example.org/'
 languageCode = 'zh-cn'
-title = "My site"
+title = 'My Site'
 theme = 'PaperMod'
+
+[minify]
+disableXML = true
+minifyOutput = true
+
+[params]
+env = 'production'
+title = 'My Site'
+author = 'Wafarm'
+defaultTheme = 'auto'
