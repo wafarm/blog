@@ -1,7 +1,7 @@
 ---
 title: "测试"
 date: 2022-10-05T20:05:30+08:00
-draft: false
+draft: true
 ---
 
 这是一个测试文件，以确定`hugo`的配置正确。
